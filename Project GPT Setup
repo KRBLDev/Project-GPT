@@ -11,11 +11,13 @@ How to setup
 2. Create a new file called ```.env``` and copy the format from ```.env.example``` (or you can just rename ```.env.example```)
 3. Update ```.env``` with your own credentials.
 4. Start your bot
+
 - Using Nodemon
   ```nodemon index.js```
 
 - Using Node
   ```node index.js```
+
 5. Enjoy!
 
 
