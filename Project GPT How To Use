@@ -1,0 +1,19 @@
+This is a simple Discord chat bot built using discord.js and the gpt-3.5-turbo model from Open AI. This is the same model used for the popular chatbot Chat GPT.
+
+How to setup
+
+Install all the dependencies
+
+1. Using npm
+
+```npm install discord.js nodemon openai dotenv```
+
+2. Create a new file called .env and copy the format from .env.example (or you can just rename .env.example)
+
+3. Update .env with your own credentials.
+
+4. Run the bot using
+
+```nodemon index.js``` or ```node index.js```
+
+5. Enjoy!
